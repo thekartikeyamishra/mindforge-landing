@@ -1,5 +1,3 @@
-
-```markdown
 # 🧠 MindForge: Battle of Minds
 
 <div align="center">
@@ -40,80 +38,14 @@ There are no dice rolls or pay-to-win mechanics. Every match is a pure test of i
 
 ---
 
+## 🛠️ Technology Stack
+
+
 ### Web Landing Page (The Hub)
 * **Framework:** Next.js (App Router)
 * **Styling:** Tailwind CSS (v4)
 * **Animations:** Framer Motion (Hardware-accelerated dynamic mouse spotlights)
 * **Hosting:** Vercel
 
-
 ---
 
-## 🚀 Getting Started
-
-### Prerequisites
-
-* [Flutter SDK](https://flutter.dev/docs/get-started/install) (latest stable)
-* [Node.js](https://nodejs.org/en/) & npm (for the Next.js landing page)
-* A Firebase Project
-* RevenueCat Account & AdMob Account
-
-
-```bash
-# Clone the repository
-git clone [https://github.com/thekartikeyamishra/mindforge-landing.git](https://github.com/thekartikeyamishra/mindforge-landing.git)
-
-# Navigate to the flutter app directory (adjust path as needed)
-cd mindforge_battle_of_minds
-
-# Install dependencies
-flutter pub get
-
----
-
-## 🔒 Security & Telemetry
-
-* **Firebase App Check:** Prevents DDoS and unauthorized API access from unverified devices.
-* **Compile-Time Env Injection:** API keys (RevenueCat, AdMob) are injected at compile time via `--dart-define`, keeping them out of version control.
-* **Server-Side Validation:** Match outcomes, ELO calculations, and ghost injections are handled securely via Firebase Cloud Functions.
-
----
-
-## 👤 The Architect
-
-**Kartikeya Mishra** Architect. Engineer. Creator.
-
-* ✉️ **Email:** workmailkartikeya@gmail.com
-* 💼 **LinkedIn:** [linkedin.com/in/thekartikeyamishra](https://www.linkedin.com/in/thekartikeyamishra)
-* 🐙 **GitHub:** [github.com/thekartikeyamishra](https://github.com/thekartikeyamishra)
-* 🐦 **X (Twitter):** [@kartikeyahere](https://x.com/kartikeyahere)
-
-### Active Deployments & Projects
-
-* 📱 **[Vyra](https://play.google.com/store/apps/details?id=com.kartikeyamishra.vyra)** - Digital utility and productivity ecosystem.
-* 🎮 **[Social Quest](https://play.google.com/store/apps/details?id=com.kartikeyamishra.social_quest_app)** - Gamified social interactions and networking.
-* 📄 **[DocuFix](https://www.docufix.in/)** - Seamless document formatting and management.
-* 🛡️ **[FreelanceShield](https://freelanceshield.me)** - Contract protection and escrow for modern freelancers.
-
----
-
-## 📄 Legal & Compliance
-
-MindForge strictly adheres to modern digital platform standards.
-
-* **Refund Policy:** All transactions are final to preserve the integrity of the prize pools.
-* **Privacy Policy:** Telemetry is used exclusively for ELO ranking, cheat detection, and AI insights. Zero data brokering.
-
-*(See the respective pages on the landing page for full documentation).*
-
----
-
-<div align="center">
-<p><i>"We aren't just building a game; we are building a gym for the human mind."</i></p>
-<p><b>© 2026 MindForge. All rights reserved.</b></p>
-</div>
-
-
-3.  Commit and push. GitHub will automatically render it beautifully with the badges, formatting, and emojis.
-
-```
